@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="servicio de autentificacion" skipped="0" tests="1" time="5.98" timestamp="2023-01-10 11:28:23"><testcase name="Crea un nuevo token de autenticacion para usar para acceder a PUT y DELETE /booking"/></testsuite>

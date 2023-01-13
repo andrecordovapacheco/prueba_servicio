@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Poder realizar el enlace con el servidor" skipped="0" tests="1" time="21.25" timestamp="2023-01-13 12:15:57"><testcase name="No deberia de actualiza parcialmente la reserva , deberia de salir error 500"><failure message="expected:&lt;[2]00&gt; but was:&lt;[5]00&gt;" type="java.lang.AssertionError">expected:&lt;[2]00&gt; but was:&lt;[5]00&gt;</failure><system-err>expected:&lt;[2]00&gt; but was:&lt;[5]00&gt;&#13;
+auto.prueba.apis.definition.BookingDefinition.espero_obtener_el_codigo_de_estado(BookingDefinition.java:133)&#13;
+✽.espero obtener el codigo de estado "500"(src/test/resources/features/UnHappy.feature:37)&#13;
+</system-err></testcase></testsuite>

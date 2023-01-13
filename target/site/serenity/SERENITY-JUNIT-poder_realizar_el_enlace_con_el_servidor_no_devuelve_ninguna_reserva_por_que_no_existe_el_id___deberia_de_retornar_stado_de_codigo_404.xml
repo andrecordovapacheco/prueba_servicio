@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Poder realizar el enlace con el servidor" skipped="0" tests="1" time="9.06" timestamp="2023-01-12 11:53:45"><testcase name="No Devuelve ninguna reserva por que no existe el id , deberia de retornar stado de codigo 404"/></testsuite>
